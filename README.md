@@ -8,7 +8,7 @@ It is an application that simplifies the task of creating a resume for individua
 - Java Language
 - JavaFX Framework
 ***
-### How to setup
+### How to setup?
 >1. Clone the repository through the following link.
 ```
 https://github.com/gudelakshmi/CV-Maker.git
@@ -17,7 +17,7 @@ https://github.com/gudelakshmi/CV-Maker.git
 >3. Trust the project to include itext libraries.
 
 ***
-### Contributors
+### Contributors:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/gudelakshmi"><img src="https://avatars.githubusercontent.com/u/76594886?v=4" width="150px;" alt=""/><br /><sub><b>Gude Lakshmi</b></sub></a></td>
@@ -26,3 +26,10 @@ https://github.com/gudelakshmi/CV-Maker.git
     <td align="center"><a href="https://github.com/praneekshajayam"><img src="https://avatars.githubusercontent.com/u/76626052?v=4" width="150px;" alt=""/><br /><sub><b>Praneeksha Jayam</b></sub></a></td>
  </tr>
 </table>
+
+***
+### Snapshots:
+<img align="left" src="https://github.com/gudelakshmi/CV-Maker/blob/main/snap%20shots/home%20page.png" width="250px;" alt=""/>
+<img align="center" src="https://github.com/gudelakshmi/CV-Maker/blob/main/snap%20shots/education.png" width="250px;" alt=""/>
+<br>
+<img align="center" src="https://github.com/gudelakshmi/CV-Maker/blob/main/snap%20shots/work%20exp.png" width="500px;" alt=""/>
